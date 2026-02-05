@@ -1,5 +1,6 @@
 
-Hi, I am Chernet Letsa and I'm currently working in Computer Engineering field of study.
-I'm dedicated to work with hard employees and learn different knowledge from them. 
-I'm interested in listening spriritual songs and reading books. You can also reach me via mobile phone: +251964049616
+👋 Hi, I’m Chernet Letsa, a developer who enjoys building and testing reliable systems
+🧪 QA-minded | 💻 Web Dev | 📈 Data curious
+🌱 Currently learning JavaScript, React & Python
+⚡ Always improving, one commit at a time You can also reach me via mobile phone: +251964049616
 
